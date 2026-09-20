@@ -1,0 +1,14 @@
+{
+  "instagram": {
+    "enabled": false,
+    "username": "",
+    "session_file": "session.json"
+  },
+  "grid": {
+    "rasio": "3:4"
+  },
+  "upload": {
+    "jeda_min": 10,
+    "jeda_max": 20
+  }
+}
