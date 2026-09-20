@@ -1,0 +1,14 @@
+{
+  "instagram": {
+    "enabled": true,
+    "username": "xi_rekayasa0ne",
+    "session_file": "session.json"
+  },
+  "grid": {
+    "rasio": "3:4"
+  },
+  "upload": {
+    "jeda_min": 30,
+    "jeda_max": 75
+  }
+}
