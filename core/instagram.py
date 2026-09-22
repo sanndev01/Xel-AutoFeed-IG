@@ -10,7 +10,7 @@ def login():
     Login via instagrapi dan kembalikan Client (atau None jika gagal).
 
     Sesi disimpan di session.json supaya tidak login ulang tiap upload.
-    Password tidak pernah disimpan: diambil dari env XEL_IG_PASSWORD atau ditanya.
+    Password tidak pernah disimpan: diambil dari env XELGRID_IG_PASSWORD atau ditanya.
     """
     ig = baca_config()["instagram"]
     username = ig.get("username", "").strip()
@@ -45,7 +45,7 @@ def login():
                     cl.set_uuids(uuids)
                 print("Sesi kedaluwarsa, login ulang.")
 
-        password = os.environ.get("XEL_IG_PASSWORD") or getpass.getpass(
+        password = os.environ.get("XELGRID_IG_PASSWORD") or getpass.getpass(
             "Password Instagram (tidak disimpan): "
         )
 
