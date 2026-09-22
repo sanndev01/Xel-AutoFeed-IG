@@ -1,8 +1,6 @@
-XelGrid
+Xel-AutoFeed-IG
 
-«Instagram grid photo processor & uploader built for Termux.»
-
-XelGrid adalah tools berbasis Python untuk membantu membuat Instagram grid dari foto, mengatur urutan hasilnya, dan mengelola proses upload ke Instagram.
+Xel-AutoFeed-IG adalah tools berbasis Python untuk membantu membuat Instagram grid dari foto, mengatur urutan hasilnya, dan mengelola proses upload ke Instagram.
 
 Project ini dibuat dengan fokus pada penggunaan yang sederhana melalui terminal dan struktur yang mudah dikembangkan.
 
