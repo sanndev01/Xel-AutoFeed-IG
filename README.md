@@ -55,16 +55,6 @@ Menu utama:
 
 Pilih menu sesuai kebutuhan untuk memproses foto, mengatur antrean, atau mengelola koneksi Instagram.
 
-📂 Project Structure
-
-Xel-AutoFeed-IG/
-├── core/
-├── interface/
-├── output/
-├── config.json
-├── requirements.txt
-├── xelgrid.py
-└── README.md
 
 ⚠️ Notes
 
