@@ -1,0 +1,4 @@
+__pycache__/
+session.json
+output/*
+!output/.gitkeep
